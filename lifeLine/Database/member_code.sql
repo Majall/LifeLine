@@ -145,8 +145,8 @@ VALUES
     (
         NULL,
         'Mr.',
-        'Siraaj',
-        'Saabir',
+        'Yaalin',
+        'mack',
         '200335610336',
         '2003-12-21',
         'MALE',
