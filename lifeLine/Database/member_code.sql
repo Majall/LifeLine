@@ -145,7 +145,7 @@ VALUES
     (
         NULL,
         'Mr.',
-        'Yaalin',
+        'Bajaka',
         'mack',
         '200335610336',
         '2003-12-21',
